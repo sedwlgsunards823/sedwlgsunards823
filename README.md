@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm sedwlgsunards823
 
-<!--
-**sedwlgsunards823/sedwlgsunards823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎰 🚴 🏊 A developer in internet of things 🎰 🚴 🏊
 
-Here are some ideas to get you started:
+## About Me
+🚣 🌟 💡 🏒 Interested in mobile development 🚣 🌟 💡 🏒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛶 🎰 🛼 A lover of algorithms 🛶 🎰 🛼
+
+### Fun Facts
+🎯 🏓 A designer in automation 🎯 🏓
+
+---
+🚵 🎱 🏒 🏸 🚣 Thanks for visiting my profile! 🚴 🎳 🎯 🏸 ✨
